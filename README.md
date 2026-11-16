@@ -24,8 +24,6 @@ Proyek memakai Built-in Render Pipeline. Geometri, tekstur, dan antarmuka dibuat
 | Petunjuk (`I`) | Buka atau tutup petunjuk di dalam demo. |
 | Atur ulang (`R`) | Kembalikan parameter awal sebelum membandingkan variabel berikutnya. |
 
-Bacaan untuk latihan, pemetaan ke PPT, serta daftar uji ada di [Panduan presentasi](docs/PANDUAN-PRESENTASI.md).
-
 ## Struktur kode
 
 | Berkas | Tanggung jawab |
