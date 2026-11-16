@@ -1,0 +1,22 @@
+# Unity membuat ulang folder ini saat membuka proyek.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE dan berkas sistem.
+.vs/
+.vscode/
+.idea/
+.DS_Store
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.pdb
